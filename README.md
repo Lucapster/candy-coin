@@ -15,7 +15,7 @@ The project is in the **prototype phase**. I am currently refining the core Go e
 * Transaction structures for competitive scoring or reward systems.
 * Internal networking and consensus rules.
 
-While primarily developed for the **Competitive Programming Society**, the architecture of `candy-coin` is being built to support:
+While primarily developed for GUCPS, the architecture of `candy-coin` is being built to support:
 * Automated reward distribution for coding challenges.
 * Educational demonstrations of distributed systems.
 
